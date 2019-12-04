@@ -46,6 +46,6 @@ If the optional inputs are given, the series will start at those given inputs.
 Tests will pass if the expected result is returned from the function.
 
 ## Change Log
--- Tue Dec 03 2019 18:09:02 --
+-- Tue Dec 03 2019 18:09:02 -- <br>
 Built out series.py module with three functions; Fibonacci, lucas, and sum_series. Sum_series function does the work of both functions.
 
