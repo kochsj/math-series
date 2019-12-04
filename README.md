@@ -18,7 +18,10 @@ If you do not:
 $ brew install python
 ```
 You need to have the files locally. Click on the green clone or download button and Download ZIP:
-<!-- insert image here -->
+
+![Click_to_download](/assets/Click_to_download_x6c0g16lz.png)
+
+
 In your command line, navigate to this directory:
 ```
 $ cd ~  ##this is your root directory
