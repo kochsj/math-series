@@ -22,10 +22,11 @@ You need to have the files locally. Click on the green clone or download button 
 ![Click_to_download](/assets/Click_to_download_x6c0g16lz.png)
 
 
-In your command line, navigate to this directory:
+In your command line, navigate to the math-series directory:
 ```
 $ cd ~  ##this is your root directory
-$ cd Downloads  ##running MacOS: Downloads is a directory inside of your root; and where your file will be downloaded
+$ cd Downloads  ##running MacOS: Downloads is a directory where your file will be downloaded
+$ cd math-series  ##now you are in this directory
 ```
 This module is running tests on a given number. Install [pytest](https://docs.pytest.org/en/latest/getting-started.html) to get started:
 Installing pytest:
