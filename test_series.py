@@ -53,3 +53,8 @@ def test_eleven():
     expected = 15737
     actual = sum_series(17, 3, 8)
     assert actual == expected
+
+def test_twelve():
+    expected = 11
+    actual = lucas(5)
+    assert actual == expected

@@ -1,4 +1,3 @@
-
 def fibonacci(n):
     """Well formed"""
     if n == 0:
